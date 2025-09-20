@@ -1,0 +1,51 @@
+FATURA DE SERVIÇOS
+
+Cliente: João Silva Santos
+CPF: 123.456.789-00
+Endereço: Rua das Flores, 123 - Centro
+Cidade: São Paulo - SP
+CEP: 01234-567
+
+Data de Emissão: 15/01/2024
+Data de Vencimento: 15/02/2024
+Número da Fatura: FAT-2024-001
+
+DESCRIÇÃO DOS SERVIÇOS:
+
+1. Consultoria em TI - 40 horas
+   Valor unitário: R$ 150,00
+   Subtotal: R$ 6.000,00
+
+2. Desenvolvimento de Software - 60 horas
+   Valor unitário: R$ 200,00
+   Subtotal: R$ 12.000,00
+
+3. Suporte Técnico - 20 horas
+   Valor unitário: R$ 100,00
+   Subtotal: R$ 2.000,00
+
+TABELA DE VALORES:
+Serviço                    | Horas | Valor Unit. | Subtotal
+---------------------------|-------|-------------|----------
+Consultoria em TI          |   40  | R$ 150,00   | R$ 6.000,00
+Desenvolvimento Software   |   60  | R$ 200,00   | R$ 12.000,00
+Suporte Técnico           |   20  | R$ 100,00   | R$ 2.000,00
+---------------------------|-------|-------------|----------
+TOTAL GERAL:                                    R$ 20.000,00
+
+FORMA DE PAGAMENTO:
+- Boleto bancário
+- PIX: 12345678900
+- Cartão de crédito (até 3x sem juros)
+
+OBSERVAÇÕES:
+- Prazo de pagamento: 30 dias
+- Multa por atraso: 2% ao mês
+- Juros de mora: 1% ao mês
+
+Empresa: Tech Solutions Ltda
+CNPJ: 12.345.678/0001-90
+Telefone: (11) 99999-9999
+Email: contato@techsolutions.com.br
+
+Esta fatura foi gerada automaticamente pelo sistema.
