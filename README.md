@@ -4,9 +4,9 @@ Solução que consome documentos e extrai informações relevantes usando o Azur
 ## 📁 Estrutura do Projeto
 
 - **DocumentIntelligenceTest/**: Aplicação principal de análise de documentos
-  - Veja [DocumentIntelligenceTest-README.md](DocumentIntelligenceTest-README.md) para instruções detalhadas
   - Interface de console para análise de PDFs e imagens
   - Extração de campos específicos e exportação para JSON
+  - Sistema de logging personalizado e configuração flexível
 
 ## 🚀 Como Começar
 
@@ -28,8 +28,7 @@ Solução que consome documentos e extrai informações relevantes usando o Azur
 
 ## 📚 Documentação
 
-- [DocumentIntelligenceTest-README.md](DocumentIntelligenceTest-README.md) - Instruções completas do projeto principal
-- [SampleDocuments/README.md](DocumentIntelligenceTest/SampleDocuments/README.md) - Documentos de exemplo
+- [SampleDocuments/README.md](DocumentIntelligenceTest/SampleDocuments/README.md) - Documentos de exemplo e dicas de uso
 
 ## 🛠️ Tecnologias
 
