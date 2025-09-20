@@ -1,5 +1,5 @@
 # ADocIntel
-Solução que consome documentos e extrai informações relevantes usando o Azure Document Intelligence
+Sistema que analisa documentos e extrai informações relevantes usando o Azure Document Intelligence - Teste Técnico para SABEMI
 
 ## 📁 Estrutura do Projeto
 
